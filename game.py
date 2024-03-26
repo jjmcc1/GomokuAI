@@ -1,3 +1,6 @@
+# Author:    James McCafferty
+# Created:   26.03.2024
+
 from constants import PLAYER_1, PLAYER_2, ROWS, COLUMNS, WIDTH, HEIGHT, GRID_SIZE
 from board import Board
 import pygame
