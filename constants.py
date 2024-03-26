@@ -1,3 +1,6 @@
+# Author:    James McCafferty
+# Created:   26.03.2024
+
 # Constants
 ROWS = 15        # Number of Rows
 COLUMNS = 15     # Number of Columns
