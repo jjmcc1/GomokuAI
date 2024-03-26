@@ -1,3 +1,5 @@
+# Author:    James McCafferty
+# Created:   26.03.2024
 import unittest
 from constants import PLAYER_1, PLAYER_2
 from board import Board
