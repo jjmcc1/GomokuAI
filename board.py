@@ -1,3 +1,7 @@
+# Author:    James McCafferty
+# Created:   26.03.2024
+ 
+
 import numpy as np
 from constants import ROWS, COLUMNS, WIN_NUMBER, LINE_WIDTH, LINE_COLOUR, GRID_SIZE, BROWN, WIDTH, HEIGHT, BLACK, WHITE, PIECE_RADIUS
 import pygame
