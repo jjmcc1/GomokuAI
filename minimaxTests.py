@@ -1,3 +1,6 @@
+# Author:    James McCafferty
+# Created:   26.03.2024
+
 import unittest
 from board import Board
 from minimax import minimax
