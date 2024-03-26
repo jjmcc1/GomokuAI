@@ -1,3 +1,6 @@
+# Author:    James McCafferty
+# Created:   26.03.2024
+
 import random
 from constants import ROWS, COLUMNS
 
