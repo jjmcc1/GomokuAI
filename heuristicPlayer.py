@@ -1,3 +1,6 @@
+# Author:    James McCafferty
+# Created:   26.03.2024
+
 import copy
 from constants import ROWS, COLUMNS
 import numpy as np
